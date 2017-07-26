@@ -17,7 +17,7 @@ rss:
 # site url. you can set as 'http://yoursite.com/child' if necessary
 # please add 'http://' or 'https://'
 # default "https://acyortjs.github.io"
-url: https://willhunger.github.io/BlogBuild
+url: http://will66.me/
 
 # language
 # base on the theme support
@@ -100,5 +100,5 @@ dev:
 # customize some settings if necessary
 
 # disqus:
-# keywords:
+keywords: Python, Web
 # favicon:
