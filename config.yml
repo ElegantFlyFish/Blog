@@ -42,8 +42,7 @@ thumbnail_mode: 2
 
 # menu
 menu:
-  home : /
-  archives: /archives/
+  Archives: /archives/
   About: /about/
 
 # category
