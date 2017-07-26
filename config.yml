@@ -90,7 +90,7 @@ token: b#7ec6cd8ef528c7d0b2af45fb9ed60364db8a00c
 # boolean or string
 # you can set json output path
 # default false
-json: ture
+json:
 
 # dev mode
 # default false
