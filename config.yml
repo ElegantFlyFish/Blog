@@ -43,6 +43,7 @@ thumbnail_mode: 2
 # menu
 menu:
   Archives: /archives/
+  Friends: /friends/
   About: /about/
 
 # category
@@ -89,7 +90,7 @@ token: b#7ec6cd8ef528c7d0b2af45fb9ed60364db8a00c
 # boolean or string
 # you can set json output path
 # default false
-json: 
+json: ture
 
 # dev mode
 # default false
@@ -98,6 +99,6 @@ dev:
 # other
 # customize some settings if necessary
 
-# disqus:
+disqus: willhunger
 keywords: Python, Web
 # favicon:
