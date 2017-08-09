@@ -4,4 +4,4 @@
 
 Address: http://will66.me
 
-Trigger Travis Ci build: [click](https://github.com/willhunger/Blog/settings/hooks/15129114/tests)
+Trigger Travis Ci build: [click](https://github.com/willhunger/Blog/settings/hooks/15129114)
